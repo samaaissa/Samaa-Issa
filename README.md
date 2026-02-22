@@ -24,6 +24,7 @@ My interests include:
 
 **Programming & Tools**
 - Rstudio
+- SPSS
 - Power BI
 - Excel
 
